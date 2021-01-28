@@ -13,4 +13,4 @@ proc_macro = true
 
 [dependencies]
 proc-macro2 = "1.0"
-decent-synquote-alternative = "0.1"
+decent-synquote-alternative = "0.2"
